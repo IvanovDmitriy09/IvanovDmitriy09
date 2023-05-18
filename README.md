@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
+<p align="center">
+![image](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+</p>
+
 <p>Languages:</p>
 
 ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
