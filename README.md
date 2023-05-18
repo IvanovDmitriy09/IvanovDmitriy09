@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
-</div>
-
 <h1 align="center">Hi there, I'm <a href="https://github.com/IvanovDmitriy09" target="_blank">Dmitriy</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -10,7 +6,7 @@
 </p>
 
 <p align="center">
-![image](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150"/>
 </p>
 
 <p>Languages:</p>
